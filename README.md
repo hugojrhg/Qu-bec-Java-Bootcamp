@@ -1,2 +1,2 @@
-# Qu-bec-Java-Bootcamp
+# Québec-Java-Bootcamp
 Repositório para utilização no bootcamp da Dio Québec Java Digital
